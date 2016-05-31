@@ -1,6 +1,6 @@
 name: Starshine
 favicon: null
-layout_spectrum: 0.3358474909327924
+layout_spectrum: 0.5903
 typography_spectrum: 0.4179285957943648
 cta:
   domain: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.24361316277645528
+    - '#000000'
+    - '#ffffff'
+    - '#9b7f53'
+    - '#472b18'
+    - '#044582'
+  brandStrength: 0.5
   lightness: 0.34139297623187304
   saturation: 0.2365440872963518
   rhythmicContrast: 0.941647850908339
