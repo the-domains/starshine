@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Theta Healing GR]]></title>
         <description><![CDATA[Theta Healing GR]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/starshine/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 14:49:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 31 May 2016 19:12:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/starshine/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[DynamicSports.gr]]></title>
+            <description><![CDATA[<article><h1>DynamicSports.gr</h1><p>Αθλητικό Περιοδικό για τα X-treme Αθλήματα. http://www.dynamicsports.gr Join us on Facebook Page: https://www.facebook.com/DynamicSports.gr Join us on Facebook Group: https://www.facebook.com/groups/dynamicsports/</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0cd62ee863fd5a5f5979919759b6755c9f44c12a.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=2PdeipD3dI4</link>
+            <guid isPermaLink="false">99533bdd-d0e4-4b4c-8a40-369888556dd5</guid>
+            <pubDate>Tue, 31 May 2016 19:12:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a88f23a-d6c1-4fb9-93b9-7b97e6599679.jpg">]]></description>
-            <link>undefinedhere-i-am-again-again-and-again/index.html</link>
+            <link>https://thegrid.ai/starshine/here-i-am-again-again-and-again/index.html</link>
             <guid isPermaLink="false">e22459b8-1dbf-4c8a-9c1a-3ee0ae98f69e</guid>
             <pubDate>Tue, 31 May 2016 14:49:28 GMT</pubDate>
         </item>
