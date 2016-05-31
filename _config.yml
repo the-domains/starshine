@@ -1,0 +1,28 @@
+name: Starshine
+favicon: null
+layout_spectrum: 0.3358474909327924
+typography_spectrum: 0.4179285957943648
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.24361316277645528
+  lightness: 0.34139297623187304
+  saturation: 0.2365440872963518
+  rhythmicContrast: 0.941647850908339
+purpose: []
