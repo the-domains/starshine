@@ -1,20 +1,4 @@
-name: Starshine
-favicon: null
-layout_spectrum: 0.5903
 typography_spectrum: 0.4179285957943648
-title: Theta Healing GR
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -26,4 +10,20 @@ color:
   lightness: 0.34139297623187304
   saturation: 0.2365440872963518
   rhythmicContrast: 0.941647850908339
+opengraph:
+  image: null
+  type: Testing in FB
+  appId: null
+layout_spectrum: 0.5903
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Starshine
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Theta Healing GR
 purpose: []
